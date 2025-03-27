@@ -24,4 +24,4 @@ modulo = 17 % 5
 
 combined = (4 + 3) * 2
 
-print(f"total: {addition,subtraction,division,multiplication,exponent,floor_division,modulo,combined}")
+print(f"totals: {addition,subtraction,division,multiplication,exponent,floor_division,modulo,combined}")
